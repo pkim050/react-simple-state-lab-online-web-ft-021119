@@ -21,6 +21,6 @@ export default class Matrix extends Component {
 
 }
 
-Matrix.defaultprops = {
-
+Matrix.defaultProps = {
+  values: pattern1
 }
