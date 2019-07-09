@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import {pattern1} from 'data.js';
-import Cell from './Cell';
+import Cell from 'Cell.js';
 
 export default class Matrix extends Component {
 
